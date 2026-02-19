@@ -1,41 +1,40 @@
-# Portfolio in React
+# 🌐 Portfolio Website – React.js
 
-A modern, responsive personal portfolio website built with React.js.  
-This application showcases my projects, technical skills, professional background, and contact information in a clean and user-friendly interface.
+A production-ready, fully responsive personal portfolio application built with **React.js**.  
+This project showcases my technical expertise, featured projects, professional background, and contact information through a clean, modern, and performance-optimized interface.
 
-🔗 **Live Website:** http://asimpunmagar.com.np/
-
----
-
-## 📌 Overview
-
-This portfolio website is designed to present my professional profile and development work in a structured and visually appealing way. The application follows modern frontend development practices and ensures responsiveness across all devices.
-
-The goal of this project is to provide visitors, recruiters, and collaborators with a comprehensive overview of my skills and experience.
+🔗 **Live Demo:** http://asimpunmagar.com.np/
 
 ---
 
-## ✨ Key Features
+## 📖 About The Project
 
-- Fully responsive design (Mobile, Tablet, Desktop)
-- Modern and clean user interface
-- Smooth navigation between sections
-- Projects showcase with structured layout
-- Skills and technology stack presentation
-- Contact section for direct communication
-- Optimized performance build
+This portfolio application serves as a centralized digital presence to highlight my:
+
+- Technical skills
+- Development projects
+- Professional experience
+- Contact information
+
+The application follows modern frontend development standards using a component-based architecture, ensuring scalability, maintainability, and clean code organization.
+
+The focus of this project is:
+
+- Clean UI/UX
+- Responsive design
+- Performance optimization
+- Structured and reusable components
+- Professional presentation
 
 ---
 
-## 🛠️ Tech Stack
+## ✨ Core Features
 
-**Frontend**
-- React.js
-- JavaScript (ES6+)
-- HTML5
-- CSS3
-
-**Development Tools**
-- Node.js
-- npm
-- Git & GitHub
+- ✅ Fully responsive across all devices (Mobile, Tablet, Desktop)
+- ✅ Modular and reusable React components
+- ✅ Clean and modern interface design
+- ✅ Structured project showcase section
+- ✅ Technical skills presentation
+- ✅ Contact section for collaboration opportunities
+- ✅ Optimized production build
+- ✅ Maintainable project architecture
