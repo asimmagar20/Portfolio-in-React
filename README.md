@@ -37,8 +37,3 @@ The focus of this project is:
 - ✅ Technical skills presentation
 - ✅ Contact section for collaboration opportunities
 - ✅ Optimized production build
-<<<<<<< HEAD
-- ✅ Maintainable project architecture
-=======
-- ✅ Maintainable project architecture
->>>>>>> b2fa6aabf13988701d73930bc9727b2c5daeb2c8
